@@ -7,21 +7,20 @@
                         <div class="topbar-left">
                             <ul>
                                 <li>
-                                    <a href="#"
+                                    <a href="mailto:nuredinluke3@gmail.com"
                                         ><i class="fa fa-envelope"></i>
-                                        name@domain.com</a
+                                        nuredinluke3@gmail.com</a>
+                                </li>
+                                <li>
+                                    <a href="tel:+251916014725"
+                                        ><i class="fa fa-phone-square"></i> (+251)
+                                        916014725</a
                                     >
                                 </li>
                                 <li>
                                     <a href="#"
-                                        ><i class="fa fa-phone-square"></i> (+1)
-                                        123-456-789</a
-                                    >
-                                </li>
-                                <li>
-                                    <a href="#"
-                                        ><i class="fa fa-clock-o"></i> Mon -
-                                        Fri: 10 AM - 6 PM</a
+                                        ><i class="fa fa-clock-o"></i>
+                                        24/7</a
                                     >
                                 </li>
                             </ul>

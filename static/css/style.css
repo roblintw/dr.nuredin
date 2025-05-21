@@ -347,6 +347,7 @@ div#preloader {
 .logo a {
     display: inline-block;
     height: auto;
+    width: 60px;
     padding: 22px 0;
 }
 .main-menu ul.navbar-nav li {
