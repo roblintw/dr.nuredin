@@ -85,7 +85,7 @@
                                 </form>
                             </div>
                             <nuxt-link class="s-menu" to="/login"
-                                >It Consultant</nuxt-link
+                                >Appointment</nuxt-link
                             >
                         </div>
 
@@ -98,123 +98,24 @@
                                     <ul class="nav navbar-nav navbar-right">
                                         <li>
                                             <a class="pages" href="/">Home</a>
-                                            <ul class="sub-menu">
-                                                <li>
-                                                    <nuxt-link to="/"
-                                                        >Home 01</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/index-2"
-                                                        >Home 02</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/index-3"
-                                                        >Home 03</nuxt-link
-                                                    >
-                                                </li>
-                                            </ul>
+
                                         </li>
                                         <li>
-                                            <a class="pages" href="#">Page</a>
-                                            <ul class="sub-menu">
-                                                <li>
-                                                    <nuxt-link to="/about"
-                                                        >About</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/team"
-                                                        >Team</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/review"
-                                                        >Reviews</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/faq"
-                                                        >FAQ</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/login"
-                                                        >Login</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/signup"
-                                                        >Signup</nuxt-link
-                                                    >
-                                                </li>
-                                            </ul>
+                                            <a class="pages" href="#">About</a>
+  
                                         </li>
                                         <li>
                                             <a class="pages" href="#"
                                                 >Services</a
                                             >
-                                            <ul class="sub-menu">
-                                                <li>
-                                                    <nuxt-link to="/services"
-                                                        >Services</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/services-2"
-                                                        >Services 2</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link
-                                                        to="/service-details"
-                                                        >Service
-                                                        Details</nuxt-link
-                                                    >
-                                                </li>
-                                            </ul>
                                         </li>
                                         <li>
                                             <a class="pages" href="#"
-                                                >Project</a
+                                                >Books</a
                                             >
-                                            <ul class="sub-menu">
-                                                <li>
-                                                    <nuxt-link to="/project"
-                                                        >Portfolio</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link
-                                                        to="/project-details"
-                                                        >Project
-                                                        details</nuxt-link
-                                                    >
-                                                </li>
-                                            </ul>
                                         </li>
                                         <li>
                                             <a class="pages" href="#">Blog</a>
-                                            <ul class="sub-menu">
-                                                <li>
-                                                    <nuxt-link to="/blog"
-                                                        >Blog grid</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link
-                                                        to="/blog-sidebar"
-                                                        >Blog List</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link
-                                                        to="/blog-details"
-                                                        >Blog Details</nuxt-link
-                                                    >
-                                                </li>
-                                            </ul>
                                         </li>
                                         <li>
                                             <nuxt-link to="/contact"
