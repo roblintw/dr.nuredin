@@ -49,7 +49,7 @@ export default {
     },
     head() {
         return {
-            title: "CODIUX | Vue Nuxt It Solutions Services Company",
+            title: "Dr.Nuredin Luke Clinic",
         };
     },
 };
