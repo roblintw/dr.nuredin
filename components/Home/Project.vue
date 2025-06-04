@@ -4,10 +4,9 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline text-center">
-                        <h3>Our successful goal</h3>
+                        <h3>Our Commitment to Quality Healthcare</h3>
                         <p>
-                            Dummy text is also used to demonstrate the
-                            appearance of different typefaces and layouts
+                            At Dr. Nuredin Luke Medium Clinic, we focus on compassionate care, advanced diagnostics, and trustworthy service. These are the pillars of our success.
                         </p>
                     </div>
                 </div>
@@ -31,11 +30,9 @@
                                 </div>
                             </div>
                             <div class="project-dec">
-                                <h4>Project management</h4>
+                                <h4>Patient-Centered Care</h4>
                                 <p>
-                                    Our development opt in to the projects they
-                                    genuinely want to work on, committing
-                                    wholeheartedly to delivering.
+                                    We prioritize the needs of every patient by offering respectful, culturally sensitive, and personalized medical support.
                                 </p>
                             </div>
                         </div>
@@ -57,11 +54,9 @@
                                 </div>
                             </div>
                             <div class="project-dec">
-                                <h4>Product design</h4>
+                                <h4>Women’s Health & Delivery</h4>
                                 <p>
-                                    Our development opt in to the projects they
-                                    genuinely want to work on, committing
-                                    wholeheartedly to delivering.
+                                    From pregnancy monitoring to childbirth support, we provide expert care for mothers and babies with compassion and professionalism.
                                 </p>
                             </div>
                         </div>
@@ -83,11 +78,10 @@
                                 </div>
                             </div>
                             <div class="project-dec">
-                                <h4>Server security</h4>
+                                <h4>Chronic Disease Management</h4>
                                 <p>
-                                    Our development opt in to the projects they
-                                    genuinely want to work on, committing
-                                    wholeheartedly to delivering.
+                                    Our team supports patients with diabetes, hypertension, and other chronic illnesses through early detection and long-term care plans.
+
                                 </p>
                             </div>
                         </div>
@@ -110,11 +104,9 @@
                                 </div>
                             </div>
                             <div class="project-dec">
-                                <h4>Industry support</h4>
+                                <h4>Modern Diagnostics</h4>
                                 <p>
-                                    Our development opt in to the projects they
-                                    genuinely want to work on, committing
-                                    wholeheartedly to delivering.
+                                    Equipped with reliable testing and laboratory services, we ensure accurate diagnosis for effective treatment.
                                 </p>
                             </div>
                         </div>
@@ -136,11 +128,9 @@
                                 </div>
                             </div>
                             <div class="project-dec">
-                                <h4>Technical solution</h4>
+                                <h4>24/7 Availability</h4>
                                 <p>
-                                    Our development opt in to the projects they
-                                    genuinely want to work on, committing
-                                    wholeheartedly to delivering.
+                                    Whether day or night, we’re available to serve our community with round-the-clock medical attention and care.
                                 </p>
                             </div>
                         </div>

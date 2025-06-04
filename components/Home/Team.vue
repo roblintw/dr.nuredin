@@ -5,17 +5,16 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="add-content">
                         <h3>
-                            CODIUX It solutions corporate company established
-                            since 2008
+                            Dr. Nuredin Luke Medium Clinic Providing Trusted Medical Care Since 2020
                         </h3>
                         <div class="add-contact">
                             <span class="call-us"
                                 ><i class="ti-mobile"></i>Phone :
-                                (+1)-123-456-789</span
+                                (+251) 916014725</span
                             >
                             <span class="call-us mail-us"
                                 ><i class="ti-email"></i>Mail us :
-                                name@domain.com</span
+                                nuredinluke3@gmail.com</span
                             >
                         </div>
                     </div>

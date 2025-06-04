@@ -30,20 +30,20 @@
                         <div class="top-social">
                             <ul>
                                 <li>
-                                    <a href="#"><i class="fa fa-skype"></i></a>
+                                    <a href="https://tiktok.com/@drnure"><i class="fa fa-tiktok"></i></a>
                                 </li>
                                 <li>
-                                    <a href="#"
-                                        ><i class="fa fa-twitter"></i
+                                    <a href="https://instagram.com/nuredin_luke"
+                                        ><i class="fa fa-instagram"></i
                                     ></a>
                                 </li>
                                 <li>
-                                    <a href="#"
+                                    <a href="https://facebook.com/DrNuredin"
                                         ><i class="fa fa-facebook"></i
                                     ></a>
                                 </li>
                                 <li>
-                                    <a href="#"><i class="fa fa-google"></i></a>
+                                    <a href="https://twitter.com/@DrNuredin"><i class="fa fa-twitter"></i></a>
                                 </li>
                             </ul>
                         </div>

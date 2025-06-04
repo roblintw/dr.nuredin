@@ -4,8 +4,8 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h3>Customer say some words</h3>
-            <p>Help agencies to define their new business objectives and then create professional software.</p>
+            <h3>What Our Patients Say</h3>
+            <p>Real feedback from patients who received care at Dr. Nuredin Luke Medium Clinic. We are honored to serve with compassion, professionalism, and trust.</p>
           </div>
         </div>
       </div>
@@ -23,11 +23,11 @@
                       <a href="#"><i class="ti-star"></i></a>
                       <a href="#"><i class="ti-star"></i></a>
                     </div>
-                    <p>When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection. help agencies.</p>
+                    <p>I had a safe delivery thanks to the amazing staff at Dr. Nuredin’s clinic. The care and comfort I received were beyond my expectations.</p>
                     <div class="testi-img ">
                       <div class="guest-details">
-                        <h4>Edward</h4>
-                        <span class="guest-rev">Genarel customer</span>
+                        <h4>Selam Abebe</h4>
+                        <span class="guest-rev">Maternity Care Patient</span>
                       </div>
                     </div>
                   </div>
@@ -43,11 +43,11 @@
                       <a href="#"><i class="ti-star"></i></a>
                       <a href="#"><i class="ti-star"></i></a>
                     </div>
-                    <p>When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection. help agencies.</p>
+                    <p>I brought my elderly father for diabetes care. We were treated with patience and professionalism. The lab services were fast and accurate.</p>
                     <div class="testi-img ">
                       <div class="guest-details">
-                        <h4>Charlotte</h4>
-                        <span class="guest-rev">Genarel customer</span>
+                        <h4>Kedir Ahmed</h4>
+                        <span class="guest-rev">Diabetes Patient</span>
                       </div>
                     </div>
                   </div>
@@ -63,11 +63,11 @@
                       <a href="#"><i class="ti-star"></i></a>
                       <a href="#"><i class="ti-star"></i></a>
                     </div>
-                    <p>When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection. help agencies.</p>
+                    <p>They helped me manage my blood pressure with expert advice and kindness. I feel stronger and more confident in my health.</p>
                     <div class="testi-img ">
                       <div class="guest-details">
-                        <h4>Daniel</h4>
-                        <span class="guest-rev">Genarel customer</span>
+                        <h4>Amina Gemeda</h4>
+                        <span class="guest-rev">Patient</span>
                       </div>
                     </div>
                   </div>
@@ -83,11 +83,11 @@
                       <a href="#"><i class="ti-star"></i></a>
                       <a href="#"><i class="ti-star"></i></a>
                     </div>
-                    <p>When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection. help agencies.</p>
+                    <p>The doctors really listen to you. They’re professional, respectful, and always ready to help. Highly recommend this clinic.</p>
                     <div class="testi-img ">
                       <div class="guest-details">
-                        <h4>Graham</h4>
-                        <span class="guest-rev">Genarel customer</span>
+                        <h4>Biftu Tullu</h4>
+                        <span class="guest-rev">Family Member</span>
                       </div>
                     </div>
                   </div>

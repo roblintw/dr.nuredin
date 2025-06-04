@@ -6,8 +6,8 @@
           <div class="row ">
             <div class="col-md-5 col-sm-4 col-xs-12">
               <div class="sub-head white-headline">
-                <h3>Request a  <span class="color">Call back</span></h3>
-                <p>Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.</p>
+                <h3>Need Help or More Information?  <span class="color">Let Us Contact You.</span></h3>
+                <p>Fill out the form and our clinic staff will call you back as soon as possible. We’re happy to answer your questions or help you book an appointment.</p>
               </div>
             </div>
             <div class="col-md-7 col-sm-8 col-xs-12">
@@ -18,11 +18,11 @@
                     <div class="help-block with-errors"></div>
                     <input type="email" class="email form-control" id="email" placeholder="Email" required data-error="Please enter your email">
                     <div class="help-block with-errors"></div>
-                    <input type="text" id="msg_subject" class="form-control last-part" placeholder="Subject" required data-error="Please enter your message subject">
+                    <input type="text" id="msg_Reason" class="form-control last-part" placeholder="Reason" required data-error="Please enter your message subject">
                     <div class="help-block with-errors last-part"></div>
                   </div>
                   <div class="col-md-6 col-sm-6 col-xs-12">
-                    <textarea id="message" rows="7" placeholder="Massage" class="form-control" required data-error="Write your message"></textarea>
+                    <textarea id="message" rows="7" placeholder="Message" class="form-control" required data-error="Write your message"></textarea>
                     <div class="help-block with-errors"></div>
                     <button type="submit" id="submit" class="quote-btn">Submit</button>
                     <div id="msgSubmit" class="h3 text-center hidden"></div>

@@ -1,7 +1,7 @@
 <template>
     <div class="intro-area">
         <div class="bg-wrapper">
-            <img src="/img/background/bg.jpg" alt="" />
+            <img src="/img/background/IMG_5456.JPEG" alt="" style="padding-top: 70px;" />
         </div>
         <div class="intro-content">
             <div class="slider-content">
@@ -13,12 +13,12 @@
                                 data-wow-delay="0.3s"
                             >
                                 <span class="title1"
-                                    >Your Vision, Our Tech.</span
+                                    >Trusted Care Rooted in Community Health.</span
                                 >
                                 <h3 class="title2">
-                                    <span class="color">CODIUX</span> is an
-                                    expanding technology<br />
-                                    digital Agent for your Business.
+                                    <span class="color">Dr. Nuredin Luke</span>
+                                    Medium Clinic<br />
+                                    24/7 MEDICAL SERVICE AVAILABILITY.
                                 </h3>
                             </div>
 
@@ -26,10 +26,7 @@
                                 class="layer-2 wow fadeInUp"
                                 data-wow-delay="0.5s"
                             >
-                                <p>
-                                    We develop effective plans to take your
-                                    business to the next level.
-                                </p>
+
                             </div>
 
                             <div

@@ -4,10 +4,9 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline text-center">
-                        <h3>Global investment plan news</h3>
+                        <h3>Health Updates & Books by Dr. Nuredin Luke</h3>
                         <p>
-                            Dummy text is also used to demonstrate the
-                            appearance of different typefaces and layouts
+                            Explore trusted health tips, clinic updates, and educational content from Dr. Nuredin Luke — including his latest published works.
                         </p>
                     </div>
                 </div>
@@ -28,17 +27,16 @@
                                         ><i class="fa fa-user"></i>Admin</span
                                     >
                                     <span class="date-type"
-                                        ><i class="fa fa-calendar"></i>20 july,
-                                        2019</span
+                                        ><i class="fa fa-calendar"></i>10 Aug,
+                                        2024</span
                                     >
                                     <span class="comments-type"
-                                        ><i class="fa fa-comment-o"></i>13</span
+                                        ><i class="fa fa-comment-o"></i>1100</span
                                     >
                                 </div>
                                 <a href="#"
                                     ><h4>
-                                        Creative design clients response is
-                                        better
+                                        Dr. Nuredin Luke Launches “Bu’uura Fayyaa”
                                     </h4></a
                                 >
                             </div>
@@ -61,8 +59,7 @@
                                 </div>
                                 <a href="#">
                                     <h4>
-                                        We're Committed to People, Committed to
-                                        the Future.
+                                        Why Prenatal Care Is Crucial for Mothers
                                     </h4>
                                 </a>
                             </div>
@@ -95,7 +92,7 @@
                                 </div>
                                 <a href="#">
                                     <h4>
-                                        Simple Solutions for Complex Connections
+                                        How to Manage Diabetes with Simple Habits
                                     </h4>
                                 </a>
                             </div>
@@ -118,7 +115,7 @@
                                     >
                                 </div>
                                 <a href="#">
-                                    <h4>When Performance Matters</h4>
+                                    <h4>24/7 Medical Service Now Available</h4>
                                 </a>
                             </div>
                             <div class="blog-image">
@@ -149,7 +146,7 @@
                                     >
                                 </div>
                                 <a href="#">
-                                    <h4>When Performance Matters</h4>
+                                    <h4>What to Expect During Your Lab Visit</h4>
                                 </a>
                             </div>
                         </div>
@@ -171,7 +168,7 @@
                                     >
                                 </div>
                                 <a href="#">
-                                    <h4>When Performance Matters</h4>
+                                    <h4>Step-by-Step Guide to Book an Appointment</h4>
                                 </a>
                             </div>
                             <div class="blog-image">

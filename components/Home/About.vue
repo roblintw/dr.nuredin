@@ -5,7 +5,7 @@
         <div class="col-md-5 col-sm-4 col-xs-12">
           <div class="about-image">
             <div class="video-content ">
-              <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+              <a href="https://www.youtube.com/watch?v=YgQR_zbdLDw" class="video-play vid-zone">
                 <i class="fa fa-play"></i>
               </a>
             </div>
@@ -14,19 +14,20 @@
         <div class="col-md-7 col-sm-8 col-xs-12">
           <div class="support-all about-content">
             <div class="section-headline right-headline white-headline">
-              <h3>Technology <span class="color">more experts</span> that provides security</h3>
-              <p>The phrasal sequence of the Lorem Ipsum text is now so widespread and commonplace that many DTP programmes can generate dummy text using the starting sequence "Lorem ipsum". Fortunately, the phrase 'Lorem Ipsum' is now recognized by electronic pre-press systems and, when found, an alarm can be raised.</p>
+              <h3>Health <span class="color">Experts You Can</span> Trust for Every Stage of Life</h3>
+              <p>At Dr. Nuredin Luke Medium Clinic, we provide professional, evidence-based care with a deep commitment to the well-being of our community. From maternal care to chronic disease management, our team ensures you receive timely, respectful, and expert treatment.</p>
             </div>
             <div class="about-company">
               <div class="single-about">
-                <span class="about-text">Professional team</span>
-                <span class="about-text">Server secure payments</span>
-                <span class="about-text">Live hat upport</span>
+                <span class="about-text">24/7 Medical Service</span>
+                <span class="about-text">Maternal Health</span>
+                <span class="about-text">Diabetes & Heart Check</span>
+                <span class="about-text">Modern Lab</span>
               </div>
               <div class="single-about">
-                <span class="about-text">Goal achivment</span>
-                <span class="about-text">Worldwide services company</span>
-                <span class="about-text">Marketing expert policy</span>
+                <span class="about-text">HIV & TB Screening</span>
+                <span class="about-text">Compassionate Staff</span>
+                <span class="about-text">Trusted Across Oromia</span>
               </div>
             </div>
           </div>

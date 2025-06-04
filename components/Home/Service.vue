@@ -4,10 +4,9 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline text-center">
-                        <h3>Professional services</h3>
+                        <h3>Our Services</h3>
                         <p>
-                            We help agencies to define their new business
-                            objectives and then create the road map
+                           Dr. Nuredin Luke Medium Clinic provides the following health services:
                         </p>
                     </div>
                 </div>
@@ -19,17 +18,11 @@
                             class="single-service wow fadeInUp"
                             data-wow-delay="0.3s"
                         >
-                            <div class="service-icon">
-                                <span class="flaticon-052-project-plan"></span>
-                            </div>
+
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>Product Design</h4>
+                                    <h4>Pregnancy check-up & monitoring</h4>
                                     <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
                                     </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
@@ -43,17 +36,11 @@
                             class="single-service wow fadeInUp"
                             data-wow-delay="0.5s"
                         >
-                            <div class="service-icon">
-                                <span class="flaticon-031-financial"></span>
-                            </div>
+                           
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>IT management</h4>
+                                    <h4>Infertility testing & counseling</h4>
                                     <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
                                     </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
@@ -68,17 +55,11 @@
                             class="single-service wow fadeInUp"
                             data-wow-delay="0.7s"
                         >
-                            <div class="service-icon">
-                                <span class="flaticon-057-statistics"></span>
-                            </div>
+                           
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>Data security</h4>
+                                    <h4>Cervical cancer screening</h4>
                                     <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
                                     </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
@@ -93,17 +74,11 @@
                             class="single-service wow fadeInUp"
                             data-wow-delay="0.3s"
                         >
-                            <div class="service-icon">
-                                <span class="flaticon-012-business"></span>
-                            </div>
+                            
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>IT consultancy</h4>
+                                    <h4>Diagnosis & treatment of reproductive tract infections</h4>
                                     <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
                                     </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
@@ -117,17 +92,11 @@
                             class="single-service wow fadeInUp"
                             data-wow-delay="0.5s"
                         >
-                            <div class="service-icon">
-                                <span class="flaticon-041-network"></span>
-                            </div>
+                            
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>Cloud services</h4>
+                                    <h4>STI screening & treatment (male-focused)</h4>
                                     <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
                                     </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
@@ -141,17 +110,281 @@
                             class="single-service wow fadeInUp"
                             data-wow-delay="0.7s"
                         >
-                            <div class="service-icon">
-                                <span class="flaticon-002-analysis"></span>
-                            </div>
+                            
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>IT support helpdesk</h4>
+                                    <h4>Reproductive health counseling and treatment</h4>
                                     <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                            
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Fracture management / orthopedic care</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Diabetes & hypertension care</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                            
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Cardiac, kidney, & liver disease care</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Nerve disorder treatment</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                            
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Digestive system treatment</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                            
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Respiratory, asthma & allergy care</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Blood disorders & anemia treatment</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Pediatric & adolescent care</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>TB, HIV & hepatitis B/C screening</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Thyroid & hormone testing</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>General medical check-ups</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Non-invasive male circumcision care</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Maternity services</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Menstrual disorder care</h4>
+                                    <p>
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.7s"
+                        >
+                           
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>24/7 medical service</h4>
+                                    <p>
                                     </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i

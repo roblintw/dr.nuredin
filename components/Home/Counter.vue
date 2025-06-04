@@ -22,8 +22,8 @@
                                 <span class="counter-icon"
                                     ><i class="ti-layers"></i
                                 ></span>
-                                <span class="counter">2510</span>
-                                <h4>Total projects</h4>
+                                <span class="counter">5,200</span>
+                                <h4>Patients Treated</h4>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12">
@@ -34,8 +34,8 @@
                                 <span class="counter-icon"
                                     ><i class="ti-world"></i
                                 ></span>
-                                <span class="counter">80</span>
-                                <h4>Worldwide</h4>
+                                <span class="counter">35</span>
+                                <h4>Communities Served</h4>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12">
@@ -46,8 +46,8 @@
                                 <span class="counter-icon"
                                     ><i class="ti-cup"></i
                                 ></span>
-                                <span class="counter">50</span>
-                                <h4>Awards win</h4>
+                                <span class="counter">5</span>
+                                <h4>Awards & Recognitions</h4>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12">
@@ -58,8 +58,8 @@
                                 <span class="counter-icon"
                                     ><i class="ti-user"></i
                                 ></span>
-                                <span class="counter">605</span>
-                                <h4>Team member</h4>
+                                <span class="counter">15</span>
+                                <h4>Qualified Medical Staff</h4>
                             </div>
                         </div>
                     </div>

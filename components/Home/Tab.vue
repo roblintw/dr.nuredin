@@ -12,7 +12,7 @@
                                     data-toggle="tab"
                                 >
                                     <span class="cha-title"
-                                        >IT maintenance</span
+                                        >Women’s Health</span
                                     >
                                 </a>
                             </li>
@@ -23,7 +23,7 @@
                                     data-toggle="tab"
                                 >
                                     <span class="cha-title"
-                                        >IT Consultancy</span
+                                        >Chronic Disease Management</span
                                     >
                                 </a>
                             </li>
@@ -34,7 +34,7 @@
                                     data-toggle="tab"
                                 >
                                     <span class="cha-title"
-                                        >Network support</span
+                                        >Lab & Diagnostic Services</span
                                     >
                                 </a>
                             </li>
@@ -45,7 +45,7 @@
                                     data-toggle="tab"
                                 >
                                     <span class="cha-title"
-                                        >Web developement</span
+                                        >24/7 Emergency Service</span
                                     >
                                 </a>
                             </li>
@@ -69,45 +69,30 @@
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="machine-text">
                                             <h3>
-                                                Enterprise AI and data platform
-                                                solutions
+                                                Comprehensive Maternal & Reproductive Services
                                             </h3>
                                             <p>
-                                                Dummy text is also used to
-                                                demonstrate the appearance of
-                                                different typefaces and layouts,
-                                                and in general the content of
-                                                dummy text is nonsensical. used
-                                                to demonstrate the appearance of
-                                                different typefaces and layouts,
-                                                and in general the content of
-                                                dummy text is nonsensical
+                                                Our clinic offers complete care for women, from pregnancy checkups to delivery support, guided by experienced professionals.
                                             </p>
                                             <ul>
                                                 <li>
                                                     <a href="#"
-                                                        >Innovation idea latest
-                                                        business tecnology</a
+                                                        >Antenatal monitoring</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Digital content
-                                                        marketing online clients
-                                                        plateform</a
+                                                        >Family planning advice</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Safe secure services
-                                                        for you online email
-                                                        account</a
+                                                        >Delivery support</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Innovation idea latest
-                                                        business tecnology</a
+                                                        >Postnatal care</a
                                                     >
                                                 </li>
                                             </ul>
@@ -131,45 +116,30 @@
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="machine-text">
                                             <h3>
-                                                Design and development use
-                                                latest technology
+                                                Expert Care for Diabetes & Hypertension
                                             </h3>
                                             <p>
-                                                And in general the content of
-                                                dummy text is nonsensical. used
-                                                to demonstrate the appearance of
-                                                different typefaces and layouts,
-                                                and in general the content of
-                                                dummy text is nonsensical. Dummy
-                                                text is also used to demonstrate
-                                                the appearance of different
-                                                typefaces and layouts
+                                                We help patients manage long-term health conditions through regular checkups, lab testing, and personalized treatment.
                                             </p>
                                             <ul>
                                                 <li>
                                                     <a href="#"
-                                                        >Innovation idea latest
-                                                        business tecnology</a
+                                                        >Diabetes follow-up</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Digital content
-                                                        marketing online clients
-                                                        plateform</a
+                                                        >Blood pressure control</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Safe secure services
-                                                        for you online email
-                                                        account</a
+                                                        >Lifestyle coaching</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Innovation idea latest
-                                                        business tecnology</a
+                                                        >Medication tracking</a
                                                     >
                                                 </li>
                                             </ul>
@@ -193,46 +163,30 @@
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="machine-text">
                                             <h3>
-                                                Innovation idea latest business
-                                                tecnology
+                                                Accurate Medical Testing & Reports
                                             </h3>
                                             <p>
-                                                Used to demonstrate the
-                                                appearance of different
-                                                typefaces and layouts, and in
-                                                general the content of dummy
-                                                text is nonsensical. text is
-                                                also used to demonstrate the
-                                                appearance of different
-                                                typefaces and layouts, and in
-                                                general the content of dummy
-                                                text is nonsensical
+                                                We provide quick and accurate lab tests to support diagnoses for infections, blood issues, and chronic conditions.
                                             </p>
                                             <ul>
                                                 <li>
                                                     <a href="#"
-                                                        >Innovation idea latest
-                                                        business tecnology</a
+                                                        >Blood & urine tests</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Digital content
-                                                        marketing online clients
-                                                        plateform</a
+                                                        >Pregnancy test</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Safe secure services
-                                                        for you online email
-                                                        account</a
+                                                        >STI screening</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Innovation idea latest
-                                                        business tecnology</a
+                                                        >Viral & TB testing</a
                                                     >
                                                 </li>
                                             </ul>
@@ -256,45 +210,30 @@
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="machine-text">
                                             <h3>
-                                                Digital content marketing online
-                                                clients plateform
+                                                Round-the-Clock Medical Availability
                                             </h3>
                                             <p>
-                                                Dummy text is also used. used to
-                                                demonstrate the appearance of
-                                                different typefaces and layouts,
-                                                and in general the content of
-                                                dummy text is nonsensica to
-                                                demonstrate the appearance of
-                                                different typefaces and layouts,
-                                                and in general the content of
-                                                dummy text is nonsensical.
+                                                Day or night, our staff are ready to respond to your medical needs with expert support and compassionate care.
                                             </p>
                                             <ul>
                                                 <li>
                                                     <a href="#"
-                                                        >Innovation idea latest
-                                                        business tecnology</a
+                                                        >On-call doctor service</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Digital content
-                                                        marketing online clients
-                                                        plateform</a
+                                                        >Emergency response</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Safe secure services
-                                                        for you online email
-                                                        account</a
+                                                        >Medicine support</a
                                                     >
                                                 </li>
                                                 <li>
                                                     <a href="#"
-                                                        >Innovation idea latest
-                                                        business tecnology</a
+                                                        > Home visit options </a
                                                     >
                                                 </li>
                                             </ul>
